@@ -62,7 +62,7 @@ A web application to help you keep track of your friends' birthdays and manage y
 
 ## Usage
 
-1. Open the app in your web browser (default: `https://birthday-diaries.onrender.com`). 
+1. Open the app in your web browser (default: `https://birthday-diaries.onrender.com`  `https://blackbalo.pythonanywhere.com`). 
 2. **Register**: Create a new account.
 3. **Login**: Access your dashboard.
 4. **Manage Birthdays**:
