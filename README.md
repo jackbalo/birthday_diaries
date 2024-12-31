@@ -1,5 +1,11 @@
 # Birthday Diaries
 
+#### Video Demo: 
+
+`https://youtu.be/uFNKvQtFuNc`
+
+#### Description:
+
 A web application to help you keep track of your friends' birthdays and manage your personal profile ao you don't miss a loved one's birthday. Your homepage will list friends whose birthdays are that day. Built using Python (Flask), SQLite, and Bootstrap with html,css and js for the frontend and jinja for templating.
 
 ---
