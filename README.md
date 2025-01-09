@@ -145,7 +145,7 @@ Any enhancements are welcome.
 
 ## Future Enhancements
 
-1. Add emailand phone push notifications for upcoming birthdays.
+1. Add email and phone push notifications for upcoming birthdays.
 2. Integrate a calendar view for better visualization.
 3. Improve search functionality with advanced filters.
 4. Add email and phone number otp verification.
